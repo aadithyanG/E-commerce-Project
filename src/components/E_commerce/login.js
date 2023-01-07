@@ -66,6 +66,7 @@ function Login() {
     return(
         <div className="SignupBox">
         <h2>Sign-Up</h2>
+        <h2>jagan</h2>
         <div className=" newColor">
         <Form>
       <Form.Group className="mb-3" controlId="formBasicName">
